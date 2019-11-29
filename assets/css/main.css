@@ -559,10 +559,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 3. Hero Area
 ========================================================================== */
 .intro {
-  background: url(../img/hero-area.jpg) no-repeat;
+  background: url(../img/cover.png) no-repeat;
   background-size: cover;
   color: #fff;
-  padding: 150px 0;
+  padding: 130px 0 ;
   overflow: hidden;
   position: relative;
 }
